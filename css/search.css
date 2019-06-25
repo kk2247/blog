@@ -1,0 +1,8 @@
+@charset "utf-8";
+.search {
+	font-size:18px;
+    border: 1px solid #ccc; 
+   	padding: 7px 0px;
+	border-radius: 3px; /*css3属性IE不支持*/
+	padding-left:5px; 
+}
